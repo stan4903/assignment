@@ -1,0 +1,29 @@
+Validating data for unique_key: 01
+name validation: PASS
+nodename validation: FAIL (Expected: 111, Got: null)
+ipaddress validation: PASS
+nttype validation: PASS
+
+Validating data for unique_key: 02
+name validation: PASS
+nodename validation: Pass 
+ipaddress validation: PASS
+nttype validation: PASS
+
+Validating data for unique_key: 03
+name validation: PASS
+nodename validation: PASS
+ipaddress validation: PASS
+nttype validation: PASS
+
+Validating data for unique_key: 04
+name validation: PASS
+nodename validation: PASS
+ipaddress validation: PASS
+nttype validation: PASS
+
+Validating data for unique_key: 05
+name validation: PASS
+nodename validation: PASS
+ipaddress validation: PASS
+nttype validation: PASS
